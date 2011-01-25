@@ -1,0 +1,17 @@
+Song Database creator for Auto DJ project
+
+Building:
+
+run ./build
+
+** requires boost (libboost_regex)
+
+Usage:
+
+./db_creator itunes_playlist.xml > new_database.json
+
+
+
+Contributers:
+
+Patrick Tierney -- patrick.l.tierney@gmail.com

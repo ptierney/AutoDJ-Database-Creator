@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>10.1.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/</string>
+	<key>Library Persistent ID</key><string>7247D94CF5CC7CFF</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3324</key>
+		<dict>
+			<key>Track ID</key><integer>3324</integer>
+			<key>Name</key><string>Roni Size - Heroes</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9383629</integer>
+			<key>Total Time</key><integer>390896</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T04:43:41Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>95F8DB8B256F23B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-01%20Roni%20Size%20-%20Heroes.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3326</key>
+		<dict>
+			<key>Track ID</key><integer>3326</integer>
+			<key>Name</key><string>Alex Reece - Jazz Master</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12010509</integer>
+			<key>Total Time</key><integer>500349</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T01:43:48Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>8F60123BCB63980E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-02%20Alex%20Reece%20-%20Jazz%20Master.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3328</key>
+		<dict>
+			<key>Track ID</key><integer>3328</integer>
+			<key>Name</key><string>Count Basic - Speechless</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9540370</integer>
+			<key>Total Time</key><integer>397426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T01:44:14Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1233</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>224FBD2AF9B50986</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-03%20Count%20Basic%20-%20Speechless.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3330</key>
+		<dict>
+			<key>Track ID</key><integer>3330</integer>
+			<key>Name</key><string>Rockers HiFi - Going Under</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12433695</integer>
+			<key>Total Time</key><integer>517982</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T01:44:33Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>19A68FD7E06E0310</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-04%20Rockers%20HiFi%20-%20Going%20Under.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3332</key>
+		<dict>
+			<key>Track ID</key><integer>3332</integer>
+			<key>Name</key><string>Bomb The Bass - Bug Powder Dust</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10579215</integer>
+			<key>Total Time</key><integer>440711</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T01:44:51Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3364</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>3E50E140F0412505</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-05%20Bomb%20The%20Bass%20-%20Bug%20Powder%20Dust.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3334</key>
+		<dict>
+			<key>Track ID</key><integer>3334</integer>
+			<key>Name</key><string>Aphrodelics - Rollin On Chrome</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8154214</integer>
+			<key>Total Time</key><integer>339670</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T01:45:11Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1292</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>C8BEAA8BF6BA5C93</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-06%20Aphrodelics%20-%20Rollin%20On%20Chrome.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3336</key>
+		<dict>
+			<key>Track ID</key><integer>3336</integer>
+			<key>Name</key><string>Depeche Mode - Useless</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8967346</integer>
+			<key>Total Time</key><integer>373551</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T01:45:33Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1779</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>B775809785D8EF8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-07%20Depeche%20Mode%20-%20Useless.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3338</key>
+		<dict>
+			<key>Track ID</key><integer>3338</integer>
+			<key>Name</key><string>Count Basic - Gotta Jazz</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7977412</integer>
+			<key>Total Time</key><integer>332303</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T01:45:39Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>C8A7B1532F8C53BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-08%20Count%20Basic%20-%20Gotta%20Jazz.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3340</key>
+		<dict>
+			<key>Track ID</key><integer>3340</integer>
+			<key>Name</key><string>Rainer Truby Trio - Donaueschingen</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9964191</integer>
+			<key>Total Time</key><integer>415085</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T01:46:46Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1638</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>B5897F4BCC02F0DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-09%20Rainer%20Truby%20Trio%20-%20Donaueschin.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3342</key>
+		<dict>
+			<key>Track ID</key><integer>3342</integer>
+			<key>Name</key><string>Lamb - Trans Fatty Acid</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12285108</integer>
+			<key>Total Time</key><integer>511791</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T01:46:53Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1517</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>74AF2ADEA3C41B85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-10%20Lamb%20-%20Trans%20Fatty%20Acid.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3344</key>
+		<dict>
+			<key>Track ID</key><integer>3344</integer>
+			<key>Name</key><string>David Holmes - Gone</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12237456</integer>
+			<key>Total Time</key><integer>509805</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T01:49:23Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1050</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>E415A33B270BEC9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-01%20David%20Holmes%20-%20Gone.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3346</key>
+		<dict>
+			<key>Track ID</key><integer>3346</integer>
+			<key>Name</key><string>Sofa Surfers - Sofa Rockers</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6500347</integer>
+			<key>Total Time</key><integer>270759</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T01:44:04Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>709</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>DF8B07944A486DC3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-02%20Sofa%20Surfers%20-%20Sofa%20Rockers.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3348</key>
+		<dict>
+			<key>Track ID</key><integer>3348</integer>
+			<key>Name</key><string>Mama Oliver - Eastwest (Stoned together)</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7467726</integer>
+			<key>Total Time</key><integer>311066</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T01:44:20Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>821</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>DE33D7C95555913C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-03%20Mama%20Oliver%20-%20Eastwest%20(Stoned.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3350</key>
+		<dict>
+			<key>Track ID</key><integer>3350</integer>
+			<key>Name</key><string>Bomb The Bass - Bug Powder Dust</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9132867</integer>
+			<key>Total Time</key><integer>380447</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T01:44:26Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1157</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>AF430123550856AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-04%20Bomb%20The%20Bass%20-%20Bug%20Powder%20Dust.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3352</key>
+		<dict>
+			<key>Track ID</key><integer>3352</integer>
+			<key>Name</key><string>Kruder Dorfmeister - Boogie Woogie</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4825173</integer>
+			<key>Total Time</key><integer>200960</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T01:45:00Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>434</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>6264BC9FD78A1A5C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-05%20Kruder%20Dorfmeister%20-%20Boogie%20Woo.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3354</key>
+		<dict>
+			<key>Track ID</key><integer>3354</integer>
+			<key>Name</key><string>Sin - Where Shall I turn</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8483978</integer>
+			<key>Total Time</key><integer>353410</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T01:45:18Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>921</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>9BE05EF1CC2D1B17</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-06%20Sin%20-%20Where%20Shall%20I%20turn.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3356</key>
+		<dict>
+			<key>Track ID</key><integer>3356</integer>
+			<key>Name</key><string>Bone Thugs n Harmony - 1st Of Tha Month</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8383056</integer>
+			<key>Total Time</key><integer>349204</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T01:45:28Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>745</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>30CDA53C28416EFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-07%20Bone%20Thugs%20n%20Harmony%20-%201st%20Of%20T.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3358</key>
+		<dict>
+			<key>Track ID</key><integer>3358</integer>
+			<key>Name</key><string>Kruder Dorfmeister - Lexicon</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1605210</integer>
+			<key>Total Time</key><integer>66795</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T01:46:25Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>210</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>DB08622DBD8B5BD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-08%20Kruder%20Dorfmeister%20-%20Lexicon.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3360</key>
+		<dict>
+			<key>Track ID</key><integer>3360</integer>
+			<key>Name</key><string>Knowtoryous - Bomberclaad Joint</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5470290</integer>
+			<key>Total Time</key><integer>227840</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T01:46:36Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1036</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>FFD50F1152F0942B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-09%20Knowtoryous%20-%20Bomberclaad%20Joint.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3362</key>
+		<dict>
+			<key>Track ID</key><integer>3362</integer>
+			<key>Name</key><string>Rockers HiFi - Going Under (Evil love And Insanity Dub)</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6500376</integer>
+			<key>Total Time</key><integer>270759</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T01:47:01Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>572</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>F483B7BDF3703BEF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-10%20Rockers%20HiFi%20-%20Going%20Under%20(Evi.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3364</key>
+		<dict>
+			<key>Track ID</key><integer>3364</integer>
+			<key>Name</key><string>Strange Cargo - Million Town</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10851931</integer>
+			<key>Total Time</key><integer>452075</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T01:47:14Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>A20143DD771231AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-11%20Strange%20Cargo%20-%20Million%20Town.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>adj test</string>
+			<key>Playlist ID</key><integer>14393</integer>
+			<key>Playlist Persistent ID</key><string>E8AC3B2428175D04</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>3324</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3326</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3330</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3334</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3336</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3340</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3342</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3346</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3348</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3350</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3352</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3356</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3358</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3360</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3362</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3364</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
