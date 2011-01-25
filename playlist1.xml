@@ -1,0 +1,1991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>10.1.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/</string>
+	<key>Library Persistent ID</key><string>7247D94CF5CC7CFF</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2228</key>
+		<dict>
+			<key>Track ID</key><integer>2228</integer>
+			<key>Name</key><string>Alles Sehen</string>
+			<key>Artist</key><string>Ellen Allien</string>
+			<key>Album</key><string>Berlinette</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5577622</integer>
+			<key>Total Time</key><integer>232333</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-04-10T08:25:38Z</date>
+			<key>Date Added</key><date>2010-08-07T14:17:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2003-04-28T12:00:00Z</date>
+			<key>Sort Artist</key><string>Allien, Ellen</string>
+			<key>Persistent ID</key><string>4DA0701EB747F627</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ellen%20Allien/Berlinette/01%20Alles%20Sehen.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2230</key>
+		<dict>
+			<key>Track ID</key><integer>2230</integer>
+			<key>Name</key><string>Sehnsucht</string>
+			<key>Artist</key><string>Ellen Allien</string>
+			<key>Album</key><string>Berlinette</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9135320</integer>
+			<key>Total Time</key><integer>380551</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-04-10T08:25:40Z</date>
+			<key>Date Added</key><date>2010-08-07T14:17:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2003-04-28T12:00:00Z</date>
+			<key>Sort Artist</key><string>Allien, Ellen</string>
+			<key>Persistent ID</key><string>27C63EA4D59D416E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ellen%20Allien/Berlinette/02%20Sehnsucht.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2232</key>
+		<dict>
+			<key>Track ID</key><integer>2232</integer>
+			<key>Name</key><string>Trash Scapes Voc</string>
+			<key>Artist</key><string>Ellen Allien</string>
+			<key>Album</key><string>Berlinette</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1458436</integer>
+			<key>Total Time</key><integer>60682</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-04-10T08:25:42Z</date>
+			<key>Date Added</key><date>2010-08-07T14:17:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2003-04-28T12:00:00Z</date>
+			<key>Sort Artist</key><string>Allien, Ellen</string>
+			<key>Persistent ID</key><string>17302962114819E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ellen%20Allien/Berlinette/03%20Trash%20Scapes%20Voc.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2234</key>
+		<dict>
+			<key>Track ID</key><integer>2234</integer>
+			<key>Name</key><string>Push</string>
+			<key>Artist</key><string>Ellen Allien</string>
+			<key>Album</key><string>Berlinette</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6234360</integer>
+			<key>Total Time</key><integer>259683</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-04-10T08:25:43Z</date>
+			<key>Date Added</key><date>2010-08-07T14:17:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2003-04-28T12:00:00Z</date>
+			<key>Sort Artist</key><string>Allien, Ellen</string>
+			<key>Persistent ID</key><string>D84CDB4BF189DA57</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ellen%20Allien/Berlinette/04%20Push.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2236</key>
+		<dict>
+			<key>Track ID</key><integer>2236</integer>
+			<key>Name</key><string>Trash Scapes</string>
+			<key>Artist</key><string>Ellen Allien</string>
+			<key>Album</key><string>Berlinette</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6802318</integer>
+			<key>Total Time</key><integer>283297</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-04-10T08:25:49Z</date>
+			<key>Date Added</key><date>2010-08-07T14:17:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2003-04-28T12:00:00Z</date>
+			<key>Sort Artist</key><string>Allien, Ellen</string>
+			<key>Persistent ID</key><string>75D0F77161265A16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ellen%20Allien/Berlinette/05%20Trash%20Scapes.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2238</key>
+		<dict>
+			<key>Track ID</key><integer>2238</integer>
+			<key>Name</key><string>Augenblick</string>
+			<key>Artist</key><string>Ellen Allien</string>
+			<key>Album</key><string>Berlinette</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6771682</integer>
+			<key>Total Time</key><integer>282096</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-04-10T08:25:53Z</date>
+			<key>Date Added</key><date>2010-08-07T14:17:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2003-04-28T12:00:00Z</date>
+			<key>Sort Artist</key><string>Allien, Ellen</string>
+			<key>Persistent ID</key><string>EA0B9030E32521EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ellen%20Allien/Berlinette/06%20Augenblick.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2240</key>
+		<dict>
+			<key>Track ID</key><integer>2240</integer>
+			<key>Name</key><string>Wish</string>
+			<key>Artist</key><string>Ellen Allien</string>
+			<key>Album</key><string>Berlinette</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6956617</integer>
+			<key>Total Time</key><integer>289802</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-04-10T08:25:55Z</date>
+			<key>Date Added</key><date>2010-08-07T14:17:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2003-04-28T12:00:00Z</date>
+			<key>Sort Artist</key><string>Allien, Ellen</string>
+			<key>Persistent ID</key><string>30064C724BA10878</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ellen%20Allien/Berlinette/07%20Wish.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2242</key>
+		<dict>
+			<key>Track ID</key><integer>2242</integer>
+			<key>Name</key><string>Abstract Pictures</string>
+			<key>Artist</key><string>Ellen Allien</string>
+			<key>Album</key><string>Berlinette</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7132186</integer>
+			<key>Total Time</key><integer>297116</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-04-10T08:25:58Z</date>
+			<key>Date Added</key><date>2010-08-07T14:17:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2003-04-28T12:00:00Z</date>
+			<key>Sort Artist</key><string>Allien, Ellen</string>
+			<key>Persistent ID</key><string>D6F6C4E19AF63CBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ellen%20Allien/Berlinette/08%20Abstract%20Pictures.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2244</key>
+		<dict>
+			<key>Track ID</key><integer>2244</integer>
+			<key>Name</key><string>Erdbeermund</string>
+			<key>Artist</key><string>Ellen Allien</string>
+			<key>Album</key><string>Berlinette</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6149761</integer>
+			<key>Total Time</key><integer>256182</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-04-10T08:26:01Z</date>
+			<key>Date Added</key><date>2010-08-07T14:17:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2003-04-28T12:00:00Z</date>
+			<key>Sort Artist</key><string>Allien, Ellen</string>
+			<key>Persistent ID</key><string>E4A37C9C8B229650</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ellen%20Allien/Berlinette/09%20Erdbeermund.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2246</key>
+		<dict>
+			<key>Track ID</key><integer>2246</integer>
+			<key>Name</key><string>Secret</string>
+			<key>Artist</key><string>Ellen Allien</string>
+			<key>Album</key><string>Berlinette</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6039412</integer>
+			<key>Total Time</key><integer>251585</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-04-10T08:26:05Z</date>
+			<key>Date Added</key><date>2010-08-07T14:17:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2003-04-28T12:00:00Z</date>
+			<key>Sort Artist</key><string>Allien, Ellen</string>
+			<key>Persistent ID</key><string>2A6912722FA62950</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ellen%20Allien/Berlinette/10%20Secret.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2248</key>
+		<dict>
+			<key>Track ID</key><integer>2248</integer>
+			<key>Name</key><string>Open</string>
+			<key>Artist</key><string>Ellen Allien</string>
+			<key>Album</key><string>Berlinette</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8964077</integer>
+			<key>Total Time</key><integer>373446</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-04-10T08:26:08Z</date>
+			<key>Date Added</key><date>2010-08-07T14:17:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3367661119</integer>
+			<key>Play Date UTC</key><date>2010-09-18T18:25:19Z</date>
+			<key>Release Date</key><date>2003-04-28T12:00:00Z</date>
+			<key>Sort Artist</key><string>Allien, Ellen</string>
+			<key>Persistent ID</key><string>70C9659E9D9CBFBB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ellen%20Allien/Berlinette/11%20Open.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3324</key>
+		<dict>
+			<key>Track ID</key><integer>3324</integer>
+			<key>Name</key><string>Roni Size - Heroes</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9383629</integer>
+			<key>Total Time</key><integer>390896</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T04:43:41Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378748931</integer>
+			<key>Play Date UTC</key><date>2011-01-25T02:22:11Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>95F8DB8B256F23B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-01%20Roni%20Size%20-%20Heroes.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3326</key>
+		<dict>
+			<key>Track ID</key><integer>3326</integer>
+			<key>Name</key><string>Alex Reece - Jazz Master</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12010509</integer>
+			<key>Total Time</key><integer>500349</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T04:43:48Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378749432</integer>
+			<key>Play Date UTC</key><date>2011-01-25T02:30:32Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>8F60123BCB63980E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-02%20Alex%20Reece%20-%20Jazz%20Master.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3328</key>
+		<dict>
+			<key>Track ID</key><integer>3328</integer>
+			<key>Name</key><string>Count Basic - Speechless</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9540370</integer>
+			<key>Total Time</key><integer>397426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T04:44:14Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378749829</integer>
+			<key>Play Date UTC</key><date>2011-01-25T02:37:09Z</date>
+			<key>Normalization</key><integer>1233</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>224FBD2AF9B50986</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-03%20Count%20Basic%20-%20Speechless.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3330</key>
+		<dict>
+			<key>Track ID</key><integer>3330</integer>
+			<key>Name</key><string>Rockers HiFi - Going Under</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12433695</integer>
+			<key>Total Time</key><integer>517982</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T04:44:33Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378750347</integer>
+			<key>Play Date UTC</key><date>2011-01-25T02:45:47Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>19A68FD7E06E0310</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-04%20Rockers%20HiFi%20-%20Going%20Under.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3332</key>
+		<dict>
+			<key>Track ID</key><integer>3332</integer>
+			<key>Name</key><string>Bomb The Bass - Bug Powder Dust</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10579215</integer>
+			<key>Total Time</key><integer>440711</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T04:44:51Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378750788</integer>
+			<key>Play Date UTC</key><date>2011-01-25T02:53:08Z</date>
+			<key>Normalization</key><integer>3364</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>3E50E140F0412505</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-05%20Bomb%20The%20Bass%20-%20Bug%20Powder%20Dust.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3334</key>
+		<dict>
+			<key>Track ID</key><integer>3334</integer>
+			<key>Name</key><string>Aphrodelics - Rollin On Chrome</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8154214</integer>
+			<key>Total Time</key><integer>339670</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T04:45:11Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378751127</integer>
+			<key>Play Date UTC</key><date>2011-01-25T02:58:47Z</date>
+			<key>Normalization</key><integer>1292</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>C8BEAA8BF6BA5C93</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-06%20Aphrodelics%20-%20Rollin%20On%20Chrome.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3336</key>
+		<dict>
+			<key>Track ID</key><integer>3336</integer>
+			<key>Name</key><string>Depeche Mode - Useless</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8967346</integer>
+			<key>Total Time</key><integer>373551</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T04:45:33Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378751501</integer>
+			<key>Play Date UTC</key><date>2011-01-25T03:05:01Z</date>
+			<key>Normalization</key><integer>1779</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>B775809785D8EF8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-07%20Depeche%20Mode%20-%20Useless.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3338</key>
+		<dict>
+			<key>Track ID</key><integer>3338</integer>
+			<key>Name</key><string>Count Basic - Gotta Jazz</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7977412</integer>
+			<key>Total Time</key><integer>332303</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T04:45:39Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378751833</integer>
+			<key>Play Date UTC</key><date>2011-01-25T03:10:33Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>C8A7B1532F8C53BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-08%20Count%20Basic%20-%20Gotta%20Jazz.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3340</key>
+		<dict>
+			<key>Track ID</key><integer>3340</integer>
+			<key>Name</key><string>Rainer Truby Trio - Donaueschingen</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9964191</integer>
+			<key>Total Time</key><integer>415085</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T04:46:46Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378752248</integer>
+			<key>Play Date UTC</key><date>2011-01-25T03:17:28Z</date>
+			<key>Normalization</key><integer>1638</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>B5897F4BCC02F0DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-09%20Rainer%20Truby%20Trio%20-%20Donaueschin.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3342</key>
+		<dict>
+			<key>Track ID</key><integer>3342</integer>
+			<key>Name</key><string>Lamb - Trans Fatty Acid</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12285108</integer>
+			<key>Total Time</key><integer>511791</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2006-12-13T04:46:53Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378752760</integer>
+			<key>Play Date UTC</key><date>2011-01-25T03:26:00Z</date>
+			<key>Normalization</key><integer>1517</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>74AF2ADEA3C41B85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/1-10%20Lamb%20-%20Trans%20Fatty%20Acid.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3344</key>
+		<dict>
+			<key>Track ID</key><integer>3344</integer>
+			<key>Name</key><string>David Holmes - Gone</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12237456</integer>
+			<key>Total Time</key><integer>509805</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T04:49:23Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378753269</integer>
+			<key>Play Date UTC</key><date>2011-01-25T03:34:29Z</date>
+			<key>Normalization</key><integer>1050</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>E415A33B270BEC9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-01%20David%20Holmes%20-%20Gone.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3346</key>
+		<dict>
+			<key>Track ID</key><integer>3346</integer>
+			<key>Name</key><string>Sofa Surfers - Sofa Rockers</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6500347</integer>
+			<key>Total Time</key><integer>270759</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T04:44:04Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378753540</integer>
+			<key>Play Date UTC</key><date>2011-01-25T03:39:00Z</date>
+			<key>Normalization</key><integer>709</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>DF8B07944A486DC3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-02%20Sofa%20Surfers%20-%20Sofa%20Rockers.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3348</key>
+		<dict>
+			<key>Track ID</key><integer>3348</integer>
+			<key>Name</key><string>Mama Oliver - Eastwest (Stoned together)</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7467726</integer>
+			<key>Total Time</key><integer>311066</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T04:44:20Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378753851</integer>
+			<key>Play Date UTC</key><date>2011-01-25T03:44:11Z</date>
+			<key>Normalization</key><integer>821</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>DE33D7C95555913C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-03%20Mama%20Oliver%20-%20Eastwest%20(Stoned.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3350</key>
+		<dict>
+			<key>Track ID</key><integer>3350</integer>
+			<key>Name</key><string>Bomb The Bass - Bug Powder Dust</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9132867</integer>
+			<key>Total Time</key><integer>380447</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T04:44:26Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378754231</integer>
+			<key>Play Date UTC</key><date>2011-01-25T03:50:31Z</date>
+			<key>Normalization</key><integer>1157</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>AF430123550856AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-04%20Bomb%20The%20Bass%20-%20Bug%20Powder%20Dust.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3352</key>
+		<dict>
+			<key>Track ID</key><integer>3352</integer>
+			<key>Name</key><string>Kruder Dorfmeister - Boogie Woogie</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4825173</integer>
+			<key>Total Time</key><integer>200960</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T04:45:00Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378754432</integer>
+			<key>Play Date UTC</key><date>2011-01-25T03:53:52Z</date>
+			<key>Normalization</key><integer>434</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>6264BC9FD78A1A5C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-05%20Kruder%20Dorfmeister%20-%20Boogie%20Woo.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3354</key>
+		<dict>
+			<key>Track ID</key><integer>3354</integer>
+			<key>Name</key><string>Sin - Where Shall I turn</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8483978</integer>
+			<key>Total Time</key><integer>353410</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T04:45:18Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378754786</integer>
+			<key>Play Date UTC</key><date>2011-01-25T03:59:46Z</date>
+			<key>Normalization</key><integer>921</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>9BE05EF1CC2D1B17</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-06%20Sin%20-%20Where%20Shall%20I%20turn.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3356</key>
+		<dict>
+			<key>Track ID</key><integer>3356</integer>
+			<key>Name</key><string>Bone Thugs n Harmony - 1st Of Tha Month</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8383056</integer>
+			<key>Total Time</key><integer>349204</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T04:45:28Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378755135</integer>
+			<key>Play Date UTC</key><date>2011-01-25T04:05:35Z</date>
+			<key>Normalization</key><integer>745</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>30CDA53C28416EFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-07%20Bone%20Thugs%20n%20Harmony%20-%201st%20Of%20T.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3358</key>
+		<dict>
+			<key>Track ID</key><integer>3358</integer>
+			<key>Name</key><string>Kruder Dorfmeister - Lexicon</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1605210</integer>
+			<key>Total Time</key><integer>66795</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T04:46:25Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378755202</integer>
+			<key>Play Date UTC</key><date>2011-01-25T04:06:42Z</date>
+			<key>Normalization</key><integer>210</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>DB08622DBD8B5BD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-08%20Kruder%20Dorfmeister%20-%20Lexicon.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3360</key>
+		<dict>
+			<key>Track ID</key><integer>3360</integer>
+			<key>Name</key><string>Knowtoryous - Bomberclaad Joint</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5470290</integer>
+			<key>Total Time</key><integer>227840</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T04:46:36Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378755429</integer>
+			<key>Play Date UTC</key><date>2011-01-25T04:10:29Z</date>
+			<key>Normalization</key><integer>1036</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>FFD50F1152F0942B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-09%20Knowtoryous%20-%20Bomberclaad%20Joint.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3362</key>
+		<dict>
+			<key>Track ID</key><integer>3362</integer>
+			<key>Name</key><string>Rockers HiFi - Going Under (Evil love And Insanity Dub)</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6500376</integer>
+			<key>Total Time</key><integer>270759</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T04:47:01Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378755700</integer>
+			<key>Play Date UTC</key><date>2011-01-25T04:15:00Z</date>
+			<key>Normalization</key><integer>572</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>F483B7BDF3703BEF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-10%20Rockers%20HiFi%20-%20Going%20Under%20(Evi.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3364</key>
+		<dict>
+			<key>Track ID</key><integer>3364</integer>
+			<key>Name</key><string>Strange Cargo - Million Town</string>
+			<key>Artist</key><string>Kruder Dorfmeister</string>
+			<key>Album</key><string>The K&#38;D Sessions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10851931</integer>
+			<key>Total Time</key><integer>452075</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2006-12-13T04:47:14Z</date>
+			<key>Date Added</key><date>2010-08-07T14:18:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378756152</integer>
+			<key>Play Date UTC</key><date>2011-01-25T04:22:32Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Sort Album</key><string>K&#38;D Sessions</string>
+			<key>Persistent ID</key><string>A20143DD771231AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Kruder%20Dorfmeister/The%20K&#38;D%20Sessions/2-11%20Strange%20Cargo%20-%20Million%20Town.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4368</key>
+		<dict>
+			<key>Track ID</key><integer>4368</integer>
+			<key>Name</key><string>Seventeen Years</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>Ratatat</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7234468</integer>
+			<key>Total Time</key><integer>266370</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-09-24T22:31:43Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>215</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3378766766</integer>
+			<key>Play Date UTC</key><date>2011-01-25T07:19:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94BE6A592D4A098F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/Ratatat/01%20Seventeen%20Years.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4370</key>
+		<dict>
+			<key>Track ID</key><integer>4370</integer>
+			<key>Name</key><string>El Pico</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>Ratatat</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7710416</integer>
+			<key>Total Time</key><integer>281835</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-09-24T22:31:44Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>216</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9879D836201C3E1A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/Ratatat/02%20El%20Pico.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4372</key>
+		<dict>
+			<key>Track ID</key><integer>4372</integer>
+			<key>Name</key><string>Crips</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>Ratatat</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5705123</integer>
+			<key>Total Time</key><integer>227918</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-09-24T22:31:44Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>197</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>81D22281B3471C85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/Ratatat/03%20Crips.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4374</key>
+		<dict>
+			<key>Track ID</key><integer>4374</integer>
+			<key>Name</key><string>Desert Eagle</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>Ratatat</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6743500</integer>
+			<key>Total Time</key><integer>265534</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-09-24T22:31:45Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>13D8CD8968958BD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/Ratatat/04%20Desert%20Eagle.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4376</key>
+		<dict>
+			<key>Track ID</key><integer>4376</integer>
+			<key>Name</key><string>Everest</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>Ratatat</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6465294</integer>
+			<key>Total Time</key><integer>250697</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-09-24T22:31:46Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>204</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2E039CEFEA6B3BE9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/Ratatat/05%20Everest.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4378</key>
+		<dict>
+			<key>Track ID</key><integer>4378</integer>
+			<key>Name</key><string>Bustelo</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>Ratatat</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3651973</integer>
+			<key>Total Time</key><integer>147408</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-09-24T22:31:46Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>194</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94779F9496F65961</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/Ratatat/06%20Bustelo.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4380</key>
+		<dict>
+			<key>Track ID</key><integer>4380</integer>
+			<key>Name</key><string>Breaking Away</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>Ratatat</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6728374</integer>
+			<key>Total Time</key><integer>259761</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-09-24T22:31:47Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>205</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8729629D3878FB94</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/Ratatat/07%20Breaking%20Away.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4382</key>
+		<dict>
+			<key>Track ID</key><integer>4382</integer>
+			<key>Name</key><string>Lapland</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>Ratatat</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7671936</integer>
+			<key>Total Time</key><integer>296515</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-09-24T22:31:48Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>205</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>57A9E608F780EF65</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/Ratatat/08%20Lapland.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4384</key>
+		<dict>
+			<key>Track ID</key><integer>4384</integer>
+			<key>Name</key><string>Germany To Germany</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>Ratatat</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5768372</integer>
+			<key>Total Time</key><integer>218279</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-09-24T22:31:48Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>208</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9606B5DA02FA8D86</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/Ratatat/09%20Germany%20To%20Germany.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4386</key>
+		<dict>
+			<key>Track ID</key><integer>4386</integer>
+			<key>Name</key><string>Spanish Armada</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>Ratatat</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4896636</integer>
+			<key>Total Time</key><integer>178520</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-09-24T22:31:49Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>216</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D88A9308BD5EDF86</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/Ratatat/10%20Spanish%20Armada.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4388</key>
+		<dict>
+			<key>Track ID</key><integer>4388</integer>
+			<key>Name</key><string>Cherry</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>Ratatat</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8231584</integer>
+			<key>Total Time</key><integer>338390</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-09-24T19:31:50Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4C85A0CB47DDBD8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/Ratatat/11%20Cherry.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4390</key>
+		<dict>
+			<key>Track ID</key><integer>4390</integer>
+			<key>Name</key><string>Intro - Brooklyn Zoo</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2648620</integer>
+			<key>Total Time</key><integer>82364</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T22:28:00Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 1</string>
+			<key>Normalization</key><integer>6981</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B35F6D32160D5E93</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/01%20Intro%20-%20Brooklyn%20Zoo.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4392</key>
+		<dict>
+			<key>Track ID</key><integer>4392</integer>
+			<key>Name</key><string>Beenie Sigel And Dirt Mcgirt - When You Hear That</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8073759</integer>
+			<key>Total Time</key><integer>251898</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T19:28:00Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 2</string>
+			<key>Normalization</key><integer>2177</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4A05046CCE28C388</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/02%20Beenie%20Sigel%20And%20Dirt%20Mcgirt%20-%20Wh.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4394</key>
+		<dict>
+			<key>Track ID</key><integer>4394</integer>
+			<key>Name</key><string>Missy Elliot - Hot</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6395204</integer>
+			<key>Total Time</key><integer>199444</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T19:28:00Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 3</string>
+			<key>Normalization</key><integer>1119</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>87E1F7061712A2A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/03%20Missy%20Elliot%20-%20Hot.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4396</key>
+		<dict>
+			<key>Track ID</key><integer>4396</integer>
+			<key>Name</key><string>Raekwon - Smith Bros.</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8527635</integer>
+			<key>Total Time</key><integer>266083</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T19:28:00Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 4</string>
+			<key>Normalization</key><integer>1209</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FADDA798CDC6535C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/04%20Raekwon%20-%20Smith%20Bros..mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4398</key>
+		<dict>
+			<key>Track ID</key><integer>4398</integer>
+			<key>Name</key><string>Kanye West - Get Em High</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10105016</integer>
+			<key>Total Time</key><integer>315376</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T19:28:01Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 5</string>
+			<key>Normalization</key><integer>1847</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7B7AA831BC3079CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/05%20Kanye%20West%20-%20Get%20Em%20High.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4400</key>
+		<dict>
+			<key>Track ID</key><integer>4400</integer>
+			<key>Name</key><string>G-Unit - Stunt 101</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7806235</integer>
+			<key>Total Time</key><integer>243539</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T19:28:01Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 6</string>
+			<key>Normalization</key><integer>1429</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6C1EB1A1642919DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/06%20G-Unit%20-%20Stunt%20101.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4402</key>
+		<dict>
+			<key>Track ID</key><integer>4402</integer>
+			<key>Name</key><string>Dizzee Rascal - Fix Up</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6471277</integer>
+			<key>Total Time</key><integer>201822</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T19:28:01Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 7</string>
+			<key>Normalization</key><integer>3811</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>52CEFD694A331D04</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/07%20Dizzee%20Rascal%20-%20Fix%20Up.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4404</key>
+		<dict>
+			<key>Track ID</key><integer>4404</integer>
+			<key>Name</key><string>Method Man And Buddha Monk Of Brooklyn Zoo - Plo Style</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6339234</integer>
+			<key>Total Time</key><integer>197694</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T22:28:02Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 8</string>
+			<key>Normalization</key><integer>1928</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>886C4337FD513B75</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/08%20Method%20Man%20And%20Buddha%20Monk%20Of%20Bro.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4406</key>
+		<dict>
+			<key>Track ID</key><integer>4406</integer>
+			<key>Name</key><string>Lazer Life Of Brooklyn Zoo - Freestyle</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4081402</integer>
+			<key>Total Time</key><integer>127137</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T19:28:02Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 9</string>
+			<key>Normalization</key><integer>1201</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>57777DA27028E4B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/09%20Lazer%20Life%20Of%20Brooklyn%20Zoo%20-%20Free.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4408</key>
+		<dict>
+			<key>Track ID</key><integer>4408</integer>
+			<key>Name</key><string>Raekwon &#38; Ghostface - Cutting It Up</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6651850</integer>
+			<key>Total Time</key><integer>207464</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T19:28:02Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 10</string>
+			<key>Normalization</key><integer>1679</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FE5A8CD25F43502C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/10%20Raekwon%20&#38;%20Ghostface%20-%20Cutting%20It.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4410</key>
+		<dict>
+			<key>Track ID</key><integer>4410</integer>
+			<key>Name</key><string>Lox - Dirty Ryders</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8642991</integer>
+			<key>Total Time</key><integer>269688</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T22:28:02Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 11</string>
+			<key>Normalization</key><integer>2911</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9B704C51349A3C88</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/11%20Lox%20-%20Dirty%20Ryders.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4412</key>
+		<dict>
+			<key>Track ID</key><integer>4412</integer>
+			<key>Name</key><string>Jay-Z - Sunshine</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5423031</integer>
+			<key>Total Time</key><integer>169064</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T19:28:03Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 12</string>
+			<key>Normalization</key><integer>1974</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB454B5A390EC06E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/12%20Jay-Z%20-%20Sunshine.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4414</key>
+		<dict>
+			<key>Track ID</key><integer>4414</integer>
+			<key>Name</key><string>Missy Elliot - Wake Up</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6583292</integer>
+			<key>Total Time</key><integer>205322</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T19:28:03Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 13</string>
+			<key>Normalization</key><integer>2439</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3EA2D6A524539898</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/13%20Missy%20Elliot%20-%20Wake%20Up.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4416</key>
+		<dict>
+			<key>Track ID</key><integer>4416</integer>
+			<key>Name</key><string>Ghostface Killah &#38; Jadakiss - Run</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album</key><string>RATATAT Remixes Vol. 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8834431</integer>
+			<key>Total Time</key><integer>275670</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-12-04T19:28:03Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 14</string>
+			<key>Normalization</key><integer>4081</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>56CA61415A15A2BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/Ratatat/RATATAT%20Remixes%20Vol.%201/14%20Ghostface%20Killah%20&#38;%20Jadakiss%20-%20Run.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4474</key>
+		<dict>
+			<key>Track ID</key><integer>4474</integer>
+			<key>Name</key><string>Happy Up Here</string>
+			<key>Artist</key><string>Röyksopp</string>
+			<key>Album Artist</key><string>Röyksopp</string>
+			<key>Album</key><string>Röyksopp - (2009) Junior</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6747540</integer>
+			<key>Total Time</key><integer>163787</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-03-18T19:19:19Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3375640435</integer>
+			<key>Play Date UTC</key><date>2010-12-20T02:53:55Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>70362F63C7E72D4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/R%C3%B6yksopp/R%C3%B6yksopp%20-%20(2009)%20Junior/01%20Happy%20Up%20Here.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4476</key>
+		<dict>
+			<key>Track ID</key><integer>4476</integer>
+			<key>Name</key><string>The Girl And The Robot</string>
+			<key>Artist</key><string>Röyksopp</string>
+			<key>Album Artist</key><string>Röyksopp</string>
+			<key>Album</key><string>Röyksopp - (2009) Junior</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10957451</integer>
+			<key>Total Time</key><integer>269035</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-03-18T19:19:22Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3375640704</integer>
+			<key>Play Date UTC</key><date>2010-12-20T02:58:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Girl And The Robot</string>
+			<key>Persistent ID</key><string>BE2CF8C30C7D7ACB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/R%C3%B6yksopp/R%C3%B6yksopp%20-%20(2009)%20Junior/02%20The%20Girl%20And%20The%20Robot.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4478</key>
+		<dict>
+			<key>Track ID</key><integer>4478</integer>
+			<key>Name</key><string>Vision One</string>
+			<key>Artist</key><string>Röyksopp</string>
+			<key>Album Artist</key><string>Röyksopp</string>
+			<key>Album</key><string>Röyksopp - (2009) Junior</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12190407</integer>
+			<key>Total Time</key><integer>299859</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-03-18T19:19:20Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3375641004</integer>
+			<key>Play Date UTC</key><date>2010-12-20T03:03:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AE24774D9D65D2D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/R%C3%B6yksopp/R%C3%B6yksopp%20-%20(2009)%20Junior/03%20Vision%20One.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4480</key>
+		<dict>
+			<key>Track ID</key><integer>4480</integer>
+			<key>Name</key><string>This Must Be It</string>
+			<key>Artist</key><string>Röyksopp</string>
+			<key>Album Artist</key><string>Röyksopp</string>
+			<key>Album</key><string>Röyksopp - (2009) Junior</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11461078</integer>
+			<key>Total Time</key><integer>281626</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-03-18T19:19:19Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3375641285</integer>
+			<key>Play Date UTC</key><date>2010-12-20T03:08:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB2DBFE767544041</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/R%C3%B6yksopp/R%C3%B6yksopp%20-%20(2009)%20Junior/04%20This%20Must%20Be%20It.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4482</key>
+		<dict>
+			<key>Track ID</key><integer>4482</integer>
+			<key>Name</key><string>Röyksopp Forever</string>
+			<key>Artist</key><string>Röyksopp</string>
+			<key>Album Artist</key><string>Röyksopp</string>
+			<key>Album</key><string>Röyksopp - (2009) Junior</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12197733</integer>
+			<key>Total Time</key><integer>300042</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-03-18T19:19:22Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3375641585</integer>
+			<key>Play Date UTC</key><date>2010-12-20T03:13:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>70756CBCF5EC50C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/R%C3%B6yksopp/R%C3%B6yksopp%20-%20(2009)%20Junior/05%20R%C3%B6yksopp%20Forever.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4484</key>
+		<dict>
+			<key>Track ID</key><integer>4484</integer>
+			<key>Name</key><string>Miss It So Much</string>
+			<key>Artist</key><string>Röyksopp</string>
+			<key>Album Artist</key><string>Röyksopp</string>
+			<key>Album</key><string>Röyksopp - (2009) Junior</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12267740</integer>
+			<key>Total Time</key><integer>301792</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-03-18T19:19:13Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3375641887</integer>
+			<key>Play Date UTC</key><date>2010-12-20T03:18:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E2EDE5D750C05838</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/R%C3%B6yksopp/R%C3%B6yksopp%20-%20(2009)%20Junior/06%20Miss%20It%20So%20Much.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4486</key>
+		<dict>
+			<key>Track ID</key><integer>4486</integer>
+			<key>Name</key><string>Tricky Tricky</string>
+			<key>Artist</key><string>Röyksopp</string>
+			<key>Album Artist</key><string>Röyksopp</string>
+			<key>Album</key><string>Röyksopp - (2009) Junior</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14567556</integer>
+			<key>Total Time</key><integer>359288</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-03-18T19:19:24Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3375642246</integer>
+			<key>Play Date UTC</key><date>2010-12-20T03:24:06Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1DCB96F7FB71AF41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/R%C3%B6yksopp/R%C3%B6yksopp%20-%20(2009)%20Junior/07%20Tricky%20Tricky.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4488</key>
+		<dict>
+			<key>Track ID</key><integer>4488</integer>
+			<key>Name</key><string>You Don't Have A Clue</string>
+			<key>Artist</key><string>Röyksopp</string>
+			<key>Album Artist</key><string>Röyksopp</string>
+			<key>Album</key><string>Röyksopp - (2009) Junior</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11141352</integer>
+			<key>Total Time</key><integer>273632</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-03-18T19:19:21Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3375642520</integer>
+			<key>Play Date UTC</key><date>2010-12-20T03:28:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4814F0B975F705F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/R%C3%B6yksopp/R%C3%B6yksopp%20-%20(2009)%20Junior/08%20You%20Don't%20Have%20A%20Clue.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4490</key>
+		<dict>
+			<key>Track ID</key><integer>4490</integer>
+			<key>Name</key><string>Silver Cruiser</string>
+			<key>Artist</key><string>Röyksopp</string>
+			<key>Album Artist</key><string>Röyksopp</string>
+			<key>Album</key><string>Röyksopp - (2009) Junior</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11251052</integer>
+			<key>Total Time</key><integer>276375</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-03-18T19:19:20Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3375642796</integer>
+			<key>Play Date UTC</key><date>2010-12-20T03:33:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>52EFD6ED61E2DF3B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/R%C3%B6yksopp/R%C3%B6yksopp%20-%20(2009)%20Junior/09%20Silver%20Cruiser.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4492</key>
+		<dict>
+			<key>Track ID</key><integer>4492</integer>
+			<key>Name</key><string>True To Life</string>
+			<key>Artist</key><string>Röyksopp</string>
+			<key>Album Artist</key><string>Röyksopp</string>
+			<key>Album</key><string>Röyksopp - (2009) Junior</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14208109</integer>
+			<key>Total Time</key><integer>350302</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-03-18T19:19:23Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3375643147</integer>
+			<key>Play Date UTC</key><date>2010-12-20T03:39:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EEC594FDF89FAA54</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/R%C3%B6yksopp/R%C3%B6yksopp%20-%20(2009)%20Junior/10%20True%20To%20Life.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4494</key>
+		<dict>
+			<key>Track ID</key><integer>4494</integer>
+			<key>Name</key><string>It's What I Want</string>
+			<key>Artist</key><string>Röyksopp</string>
+			<key>Album Artist</key><string>Röyksopp</string>
+			<key>Album</key><string>Röyksopp - (2009) Junior</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7660786</integer>
+			<key>Total Time</key><integer>186618</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-03-18T19:19:02Z</date>
+			<key>Date Added</key><date>2010-08-07T14:19:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3375643333</integer>
+			<key>Play Date UTC</key><date>2010-12-20T03:42:13Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2193FD10349DD3F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/R%C3%B6yksopp/R%C3%B6yksopp%20-%20(2009)%20Junior/11%20It's%20What%20I%20Want.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>adj test</string>
+			<key>Playlist ID</key><integer>14393</integer>
+			<key>Playlist Persistent ID</key><string>E8AC3B2428175D04</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>3324</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3326</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3330</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3334</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3336</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3340</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3342</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3346</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3348</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3350</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3352</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3356</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3358</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3360</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3362</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3364</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4368</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4372</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4374</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4376</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4378</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4380</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4382</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4384</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4386</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4392</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4394</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4398</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4400</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4404</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4406</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4408</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4410</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4412</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4414</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4476</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4478</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4480</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4482</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4484</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4486</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4488</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4490</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4492</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4494</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2228</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2230</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2234</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2238</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2240</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2242</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2244</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2248</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
