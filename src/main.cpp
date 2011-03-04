@@ -10,6 +10,7 @@
 
 #include "json/value.h"
 
+void check_song_values(Json::Value& val);
 std::string dehtml_itunes_name(std::string);
 std::string get_filename_from_path(std::string);
 
@@ -45,25 +46,65 @@ int main (int argc, char** argv) {
 		song_value["id"] = id_counter;
 	
 		for (elem; elem; elem = elem->NextSiblingElement()) {
+			if (elem->GetText() == NULL) {
+				elem->NextSiblingElement();
+				continue;
+			}
+
 			std::string key = elem->GetText();
 
 			if (key == "Artist") {
 				elem = elem->NextSiblingElement();
+
+				if (elem->GetText() == NULL) {
+					song_value["artist"] = "Unknown Artist";
+					continue;
+				}
+
 				song_value["artist"] = elem->GetText();
 			} else if (key == "Name") {
 				elem = elem->NextSiblingElement();
+
+				if (elem->GetText() == NULL) {
+					song_value["title"] = "Unknown Name";
+					continue;
+				}
+
 				song_value["title"] = elem->GetText();
 			} else if (key == "Album") {
 				elem = elem->NextSiblingElement();
+
+				if (elem->GetText() == NULL) {
+					song_value["album"] = "Unknown Album";
+					continue;
+				}
+
 				song_value["album"] = elem->GetText();
 			} else if (key == "Total Time") {
 				elem = elem->NextSiblingElement();
+
+				if (elem->GetText() == NULL) {
+					song_value["length"] = 1;
+					continue;
+				}
+
 				song_value["length"] = static_cast<int>(boost::lexical_cast<int>(elem->GetText()) / 1000);
-			} else if (key == "Location") {
+			}
+
+
+			/* 
+			else if (key == "Location") {
 				elem = elem->NextSiblingElement();
+
+				std::cout << elem->GetText() << std::endl;
+
 				song_value["filename"] = dehtml_itunes_name(get_filename_from_path(elem->GetText()));
 			}
+			*/
+
 		}
+
+		check_song_values(song_value);
 
 		db_array[id_counter] = song_value;
 
@@ -73,6 +114,18 @@ int main (int argc, char** argv) {
 
 	return 0;
 }
+
+void check_song_values(Json::Value& val) {
+	if (val["artist"].empty())
+		val["artist"] = "Unknown Artist";
+	else if (val["title"].empty())
+		val["title"] = "Unknown Title";
+	else if (val["album"].empty())
+		val["album"] = "Unknown Album";
+	else if (val["length"].empty())
+		val["length"] = 1;
+}
+
 
 // TODO: this only removes the %20 from the names, should convert html stuff into unicode
 std::string dehtml_itunes_name(std::string htmld) {

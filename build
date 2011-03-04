@@ -1,4 +1,4 @@
-g++ -O5 -Iinclude \
+g++ -g -Iinclude \
 src/main.cpp \
 src/tinystr.cpp src/tinyxml.cpp src/tinyxmlerror.cpp src/tinyxmlparser.cpp \
 src/json/json_reader.cpp src/json/json_value.cpp src/json/json_writer.cpp \

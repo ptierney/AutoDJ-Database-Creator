@@ -1,10 +1,98 @@
 {
    "songs" : [
       {
+         "album" : "Berlinette",
+         "artist" : "Ellen Allien",
+         "filename" : "01 Alles Sehen.mp3",
+         "id" : 0,
+         "length" : 232,
+         "title" : "Alles Sehen"
+      },
+      {
+         "album" : "Berlinette",
+         "artist" : "Ellen Allien",
+         "filename" : "02 Sehnsucht.mp3",
+         "id" : 1,
+         "length" : 380,
+         "title" : "Sehnsucht"
+      },
+      {
+         "album" : "Berlinette",
+         "artist" : "Ellen Allien",
+         "filename" : "03 Trash Scapes Voc.mp3",
+         "id" : 2,
+         "length" : 60,
+         "title" : "Trash Scapes Voc"
+      },
+      {
+         "album" : "Berlinette",
+         "artist" : "Ellen Allien",
+         "filename" : "04 Push.mp3",
+         "id" : 3,
+         "length" : 259,
+         "title" : "Push"
+      },
+      {
+         "album" : "Berlinette",
+         "artist" : "Ellen Allien",
+         "filename" : "05 Trash Scapes.mp3",
+         "id" : 4,
+         "length" : 283,
+         "title" : "Trash Scapes"
+      },
+      {
+         "album" : "Berlinette",
+         "artist" : "Ellen Allien",
+         "filename" : "06 Augenblick.mp3",
+         "id" : 5,
+         "length" : 282,
+         "title" : "Augenblick"
+      },
+      {
+         "album" : "Berlinette",
+         "artist" : "Ellen Allien",
+         "filename" : "07 Wish.mp3",
+         "id" : 6,
+         "length" : 289,
+         "title" : "Wish"
+      },
+      {
+         "album" : "Berlinette",
+         "artist" : "Ellen Allien",
+         "filename" : "08 Abstract Pictures.mp3",
+         "id" : 7,
+         "length" : 297,
+         "title" : "Abstract Pictures"
+      },
+      {
+         "album" : "Berlinette",
+         "artist" : "Ellen Allien",
+         "filename" : "09 Erdbeermund.mp3",
+         "id" : 8,
+         "length" : 256,
+         "title" : "Erdbeermund"
+      },
+      {
+         "album" : "Berlinette",
+         "artist" : "Ellen Allien",
+         "filename" : "10 Secret.mp3",
+         "id" : 9,
+         "length" : 251,
+         "title" : "Secret"
+      },
+      {
+         "album" : "Berlinette",
+         "artist" : "Ellen Allien",
+         "filename" : "11 Open.mp3",
+         "id" : 10,
+         "length" : 373,
+         "title" : "Open"
+      },
+      {
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "1-01 Roni Size - Heroes.mp3",
-         "id" : 0,
+         "id" : 11,
          "length" : 390,
          "title" : "Roni Size - Heroes"
       },
@@ -12,7 +100,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "1-02 Alex Reece - Jazz Master.mp3",
-         "id" : 1,
+         "id" : 12,
          "length" : 500,
          "title" : "Alex Reece - Jazz Master"
       },
@@ -20,7 +108,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "1-03 Count Basic - Speechless.mp3",
-         "id" : 2,
+         "id" : 13,
          "length" : 397,
          "title" : "Count Basic - Speechless"
       },
@@ -28,7 +116,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "1-04 Rockers HiFi - Going Under.mp3",
-         "id" : 3,
+         "id" : 14,
          "length" : 517,
          "title" : "Rockers HiFi - Going Under"
       },
@@ -36,7 +124,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "1-05 Bomb The Bass - Bug Powder Dust.mp3",
-         "id" : 4,
+         "id" : 15,
          "length" : 440,
          "title" : "Bomb The Bass - Bug Powder Dust"
       },
@@ -44,7 +132,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "1-06 Aphrodelics - Rollin On Chrome.mp3",
-         "id" : 5,
+         "id" : 16,
          "length" : 339,
          "title" : "Aphrodelics - Rollin On Chrome"
       },
@@ -52,7 +140,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "1-07 Depeche Mode - Useless.mp3",
-         "id" : 6,
+         "id" : 17,
          "length" : 373,
          "title" : "Depeche Mode - Useless"
       },
@@ -60,7 +148,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "1-08 Count Basic - Gotta Jazz.mp3",
-         "id" : 7,
+         "id" : 18,
          "length" : 332,
          "title" : "Count Basic - Gotta Jazz"
       },
@@ -68,7 +156,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "1-09 Rainer Truby Trio - Donaueschin.mp3",
-         "id" : 8,
+         "id" : 19,
          "length" : 415,
          "title" : "Rainer Truby Trio - Donaueschingen"
       },
@@ -76,7 +164,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "1-10 Lamb - Trans Fatty Acid.mp3",
-         "id" : 9,
+         "id" : 20,
          "length" : 511,
          "title" : "Lamb - Trans Fatty Acid"
       },
@@ -84,7 +172,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "2-01 David Holmes - Gone.mp3",
-         "id" : 10,
+         "id" : 21,
          "length" : 509,
          "title" : "David Holmes - Gone"
       },
@@ -92,7 +180,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "2-02 Sofa Surfers - Sofa Rockers.mp3",
-         "id" : 11,
+         "id" : 22,
          "length" : 270,
          "title" : "Sofa Surfers - Sofa Rockers"
       },
@@ -100,7 +188,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "2-03 Mama Oliver - Eastwest (Stoned.mp3",
-         "id" : 12,
+         "id" : 23,
          "length" : 311,
          "title" : "Mama Oliver - Eastwest (Stoned together)"
       },
@@ -108,7 +196,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "2-04 Bomb The Bass - Bug Powder Dust.mp3",
-         "id" : 13,
+         "id" : 24,
          "length" : 380,
          "title" : "Bomb The Bass - Bug Powder Dust"
       },
@@ -116,7 +204,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "2-05 Kruder Dorfmeister - Boogie Woo.mp3",
-         "id" : 14,
+         "id" : 25,
          "length" : 200,
          "title" : "Kruder Dorfmeister - Boogie Woogie"
       },
@@ -124,7 +212,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "2-06 Sin - Where Shall I turn.mp3",
-         "id" : 15,
+         "id" : 26,
          "length" : 353,
          "title" : "Sin - Where Shall I turn"
       },
@@ -132,7 +220,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "2-07 Bone Thugs n Harmony - 1st Of T.mp3",
-         "id" : 16,
+         "id" : 27,
          "length" : 349,
          "title" : "Bone Thugs n Harmony - 1st Of Tha Month"
       },
@@ -140,7 +228,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "2-08 Kruder Dorfmeister - Lexicon.mp3",
-         "id" : 17,
+         "id" : 28,
          "length" : 66,
          "title" : "Kruder Dorfmeister - Lexicon"
       },
@@ -148,7 +236,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "2-09 Knowtoryous - Bomberclaad Joint.mp3",
-         "id" : 18,
+         "id" : 29,
          "length" : 227,
          "title" : "Knowtoryous - Bomberclaad Joint"
       },
@@ -156,7 +244,7 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "2-10 Rockers HiFi - Going Under (Evi.mp3",
-         "id" : 19,
+         "id" : 30,
          "length" : 270,
          "title" : "Rockers HiFi - Going Under (Evil love And Insanity Dub)"
       },
@@ -164,9 +252,289 @@
          "album" : "The K&D Sessions",
          "artist" : "Kruder Dorfmeister",
          "filename" : "2-11 Strange Cargo - Million Town.mp3",
-         "id" : 20,
+         "id" : 31,
          "length" : 452,
          "title" : "Strange Cargo - Million Town"
+      },
+      {
+         "album" : "Ratatat",
+         "artist" : "Ratatat",
+         "filename" : "01 Seventeen Years.mp3",
+         "id" : 32,
+         "length" : 266,
+         "title" : "Seventeen Years"
+      },
+      {
+         "album" : "Ratatat",
+         "artist" : "Ratatat",
+         "filename" : "02 El Pico.mp3",
+         "id" : 33,
+         "length" : 281,
+         "title" : "El Pico"
+      },
+      {
+         "album" : "Ratatat",
+         "artist" : "Ratatat",
+         "filename" : "03 Crips.mp3",
+         "id" : 34,
+         "length" : 227,
+         "title" : "Crips"
+      },
+      {
+         "album" : "Ratatat",
+         "artist" : "Ratatat",
+         "filename" : "04 Desert Eagle.mp3",
+         "id" : 35,
+         "length" : 265,
+         "title" : "Desert Eagle"
+      },
+      {
+         "album" : "Ratatat",
+         "artist" : "Ratatat",
+         "filename" : "05 Everest.mp3",
+         "id" : 36,
+         "length" : 250,
+         "title" : "Everest"
+      },
+      {
+         "album" : "Ratatat",
+         "artist" : "Ratatat",
+         "filename" : "06 Bustelo.mp3",
+         "id" : 37,
+         "length" : 147,
+         "title" : "Bustelo"
+      },
+      {
+         "album" : "Ratatat",
+         "artist" : "Ratatat",
+         "filename" : "07 Breaking Away.mp3",
+         "id" : 38,
+         "length" : 259,
+         "title" : "Breaking Away"
+      },
+      {
+         "album" : "Ratatat",
+         "artist" : "Ratatat",
+         "filename" : "08 Lapland.mp3",
+         "id" : 39,
+         "length" : 296,
+         "title" : "Lapland"
+      },
+      {
+         "album" : "Ratatat",
+         "artist" : "Ratatat",
+         "filename" : "09 Germany To Germany.mp3",
+         "id" : 40,
+         "length" : 218,
+         "title" : "Germany To Germany"
+      },
+      {
+         "album" : "Ratatat",
+         "artist" : "Ratatat",
+         "filename" : "10 Spanish Armada.mp3",
+         "id" : 41,
+         "length" : 178,
+         "title" : "Spanish Armada"
+      },
+      {
+         "album" : "Ratatat",
+         "artist" : "Ratatat",
+         "filename" : "11 Cherry.mp3",
+         "id" : 42,
+         "length" : 338,
+         "title" : "Cherry"
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "01 Intro - Brooklyn Zoo.mp3",
+         "id" : 43,
+         "length" : 82,
+         "title" : "Intro - Brooklyn Zoo"
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "02 Beenie Sigel And Dirt Mcgirt - Wh.mp3",
+         "id" : 44,
+         "length" : 251,
+         "title" : "Beenie Sigel And Dirt Mcgirt - When You Hear That"
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "03 Missy Elliot - Hot.mp3",
+         "id" : 45,
+         "length" : 199,
+         "title" : "Missy Elliot - Hot"
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "04 Raekwon - Smith Bros..mp3",
+         "id" : 46,
+         "length" : 266,
+         "title" : "Raekwon - Smith Bros."
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "05 Kanye West - Get Em High.mp3",
+         "id" : 47,
+         "length" : 315,
+         "title" : "Kanye West - Get Em High"
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "06 G-Unit - Stunt 101.mp3",
+         "id" : 48,
+         "length" : 243,
+         "title" : "G-Unit - Stunt 101"
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "07 Dizzee Rascal - Fix Up.mp3",
+         "id" : 49,
+         "length" : 201,
+         "title" : "Dizzee Rascal - Fix Up"
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "08 Method Man And Buddha Monk Of Bro.mp3",
+         "id" : 50,
+         "length" : 197,
+         "title" : "Method Man And Buddha Monk Of Brooklyn Zoo - Plo Style"
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "09 Lazer Life Of Brooklyn Zoo - Free.mp3",
+         "id" : 51,
+         "length" : 127,
+         "title" : "Lazer Life Of Brooklyn Zoo - Freestyle"
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "10 Raekwon & Ghostface - Cutting It.mp3",
+         "id" : 52,
+         "length" : 207,
+         "title" : "Raekwon & Ghostface - Cutting It Up"
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "11 Lox - Dirty Ryders.mp3",
+         "id" : 53,
+         "length" : 269,
+         "title" : "Lox - Dirty Ryders"
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "12 Jay-Z - Sunshine.mp3",
+         "id" : 54,
+         "length" : 169,
+         "title" : "Jay-Z - Sunshine"
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "13 Missy Elliot - Wake Up.mp3",
+         "id" : 55,
+         "length" : 205,
+         "title" : "Missy Elliot - Wake Up"
+      },
+      {
+         "album" : "RATATAT Remixes Vol. 1",
+         "artist" : "Ratatat",
+         "filename" : "14 Ghostface Killah & Jadakiss - Run.mp3",
+         "id" : 56,
+         "length" : 275,
+         "title" : "Ghostface Killah & Jadakiss - Run"
+      },
+      {
+         "album" : "Röyksopp - (2009) Junior",
+         "artist" : "Röyksopp",
+         "filename" : "01 Happy Up Here.mp3",
+         "id" : 57,
+         "length" : 163,
+         "title" : "Happy Up Here"
+      },
+      {
+         "album" : "Röyksopp - (2009) Junior",
+         "artist" : "Röyksopp",
+         "filename" : "02 The Girl And The Robot.mp3",
+         "id" : 58,
+         "length" : 269,
+         "title" : "The Girl And The Robot"
+      },
+      {
+         "album" : "Röyksopp - (2009) Junior",
+         "artist" : "Röyksopp",
+         "filename" : "03 Vision One.mp3",
+         "id" : 59,
+         "length" : 299,
+         "title" : "Vision One"
+      },
+      {
+         "album" : "Röyksopp - (2009) Junior",
+         "artist" : "Röyksopp",
+         "filename" : "04 This Must Be It.mp3",
+         "id" : 60,
+         "length" : 281,
+         "title" : "This Must Be It"
+      },
+      {
+         "album" : "Röyksopp - (2009) Junior",
+         "artist" : "Röyksopp",
+         "filename" : "06 Miss It So Much.mp3",
+         "id" : 61,
+         "length" : 301,
+         "title" : "Miss It So Much"
+      },
+      {
+         "album" : "Röyksopp - (2009) Junior",
+         "artist" : "Röyksopp",
+         "filename" : "07 Tricky Tricky.mp3",
+         "id" : 62,
+         "length" : 359,
+         "title" : "Tricky Tricky"
+      },
+      {
+         "album" : "Röyksopp - (2009) Junior",
+         "artist" : "Röyksopp",
+         "filename" : "08 You Don't Have A Clue.mp3",
+         "id" : 63,
+         "length" : 273,
+         "title" : "You Don't Have A Clue"
+      },
+      {
+         "album" : "Röyksopp - (2009) Junior",
+         "artist" : "Röyksopp",
+         "filename" : "09 Silver Cruiser.mp3",
+         "id" : 64,
+         "length" : 276,
+         "title" : "Silver Cruiser"
+      },
+      {
+         "album" : "Röyksopp - (2009) Junior",
+         "artist" : "Röyksopp",
+         "filename" : "10 True To Life.mp3",
+         "id" : 65,
+         "length" : 350,
+         "title" : "True To Life"
+      },
+      {
+         "album" : "Röyksopp - (2009) Junior",
+         "artist" : "Röyksopp",
+         "filename" : "11 It's What I Want.mp3",
+         "id" : 66,
+         "length" : 186,
+         "title" : "It's What I Want"
       }
    ]
 }
